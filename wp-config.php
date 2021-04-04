@@ -23,7 +23,7 @@ define( 'DB_NAME', 'htmwp' );
 /** MySQL database username */
 define( 'DB_USER', 'htmwp' );
 /** MySQL database password */
-define( 'DB_PASSWORD', '344qaz741F' );
+define( 'DB_PASSWORD', '' );
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
 /** Database Charset to use in creating database tables. */
