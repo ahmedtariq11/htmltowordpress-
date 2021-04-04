@@ -1,0 +1,24 @@
+2020-10-18T09:16:17+00:00 CRITICAL Uncaught Error: Call to undefined function PLUGIN_URL() in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\flex_slider\includes\flex_slider_dev.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): flex_slider_dev::flex_slider_styles('')
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\functions.wp-styles.php(57): do_action('wp_print_styles')
+#4 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wp_print_styles(false)
+#5 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 E:\xamp\htdocs\htmltowordpress\wp-includes\general-template.php(3006): do_action('wp_head')
+#8 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\flex_slider\includes\flex_slider_dev.php on line 79
+
+2020-10-18T09:17:31+00:00 CRITICAL Uncaught Error: Call to undefined function PLUGIN_URL() in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\flex_slider\includes\flex_slider_dev.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): flex_slider_dev::flex_slider_styles('')
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\functions.wp-styles.php(57): do_action('wp_print_styles')
+#4 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wp_print_styles(false)
+#5 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#6 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#7 E:\xamp\htdocs\htmltowordpress\wp-includes\general-template.php(3006): do_action('wp_head')
+#8 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\flex_slider\includes\flex_slider_dev.php on line 79
+

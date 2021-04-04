@@ -1,0 +1,6 @@
+2020-10-15T20:02:08+00:00 CRITICAL require(): Failed opening required 'E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss//classes/pk_view.php' (include_path='E:\xamp\php\PEAR') in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss\wc-recently-viewed-products.php on line 59
+
+2020-10-15T20:02:12+00:00 CRITICAL require(): Failed opening required 'E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss//classes/pk_view.php' (include_path='E:\xamp\php\PEAR') in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss\wc-recently-viewed-products.php on line 59
+
+2020-10-15T20:02:12+00:00 CRITICAL require(): Failed opening required 'E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss//classes/pk_view.php' (include_path='E:\xamp\php\PEAR') in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\wc-recently-viewed-productss\wc-recently-viewed-products.php on line 59
+

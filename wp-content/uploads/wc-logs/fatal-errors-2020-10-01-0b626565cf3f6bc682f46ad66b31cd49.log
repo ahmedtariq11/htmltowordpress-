@@ -1,0 +1,381 @@
+2020-10-01T09:26:47+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:27:16+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:27:16+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:27:37+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:27:38+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:28:48+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:28:48+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:29:07+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:29:08+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:30:36+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:30:36+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:32:21+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:32:22+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:217
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 217
+
+2020-10-01T09:34:57+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:219
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 219
+
+2020-10-01T09:34:59+00:00 CRITICAL Uncaught Error: Class 'wp_bootstrap_navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:219
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 219
+
+2020-10-01T09:35:56+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:219
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 219
+
+2020-10-01T09:35:57+00:00 CRITICAL Uncaught Error: Class 'WP_Bootstrap_Navwalker' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:219
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 219
+
+2020-10-01T10:08:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse265503_nav_li_class(), 3 passed in E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php on line 287 and exactly 4 expected in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:44
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wpse265503_nav_li_class(Array, Object(WP_Post), Object(stdClass))
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(86): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.php(144): WP_Bootstrap_Navwalker->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(178): Walker->display_element(Object(WP_Post), Array, 4, 0, Array, '')
+#5 E:\xamp\htdocs\htmltowordp in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 44
+
+2020-10-01T10:09:11+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse265503_nav_li_class(), 3 passed in E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php on line 287 and exactly 4 expected in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:44
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wpse265503_nav_li_class(Array, Object(WP_Post), Object(stdClass))
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(86): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.php(144): WP_Bootstrap_Navwalker->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(178): Walker->display_element(Object(WP_Post), Array, 4, 0, Array, '')
+#5 E:\xamp\htdocs\htmltowordp in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 44
+
+2020-10-01T10:10:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse265503_nav_li_class(), 1 passed in E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php on line 289 and exactly 4 expected in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:44
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(289): wpse265503_nav_li_class(Array)
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(86): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.php(144): WP_Bootstrap_Navwalker->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(178): Walker->display_element(Object(WP_Post), Array, 4, 0, Array, '')
+#5 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.ph in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 44
+
+2020-10-01T10:10:55+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse265503_nav_li_class(), 3 passed in E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php on line 287 and exactly 4 expected in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:44
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wpse265503_nav_li_class(Array, Object(WP_Post), Object(stdClass))
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(86): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.php(144): WP_Bootstrap_Navwalker->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(178): Walker->display_element(Object(WP_Post), Array, 4, 0, Array, '')
+#5 E:\xamp\htdocs\htmltowordp in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 44
+
+2020-10-01T10:10:56+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wpse265503_nav_li_class(), 3 passed in E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php on line 287 and exactly 4 expected in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:44
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): wpse265503_nav_li_class(Array, Object(WP_Post), Object(stdClass))
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(86): apply_filters('nav_menu_css_cl...', Array, Object(WP_Post), Object(stdClass))
+#3 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-walker.php(144): WP_Bootstrap_Navwalker->start_el('', Object(WP_Post), 0, Object(stdClass))
+#4 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\wp-bootstrap-navwalker.php(178): Walker->display_element(Object(WP_Post), Array, 4, 0, Array, '')
+#5 E:\xamp\htdocs\htmltowordp in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 44
+
+2020-10-01T10:35:31+00:00 CRITICAL syntax error, unexpected '=' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 46
+
+2020-10-01T10:36:02+00:00 CRITICAL syntax error, unexpected '=' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 46
+
+2020-10-01T10:36:18+00:00 CRITICAL syntax error, unexpected '=' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 46
+
+2020-10-01T11:00:18+00:00 CRITICAL syntax error, unexpected ''echo'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 227
+
+2020-10-01T12:01:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:01:20+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:01:56+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:01:56+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:04:36+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:04:37+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:08:22+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:08:23+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:11:00+00:00 CRITICAL syntax error, unexpected '=>' (T_DOUBLE_ARROW) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 15
+
+2020-10-01T12:11:29+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:11:30+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:12:57+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:12:57+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:15:41+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:15:42+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:17:36+00:00 CRITICAL Uncaught Error: Call to undefined function supports() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:14
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(287): cy_theme_setup('')
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-settings.php(524): do_action('after_setup_the...')
+#4 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#6 E:\xamp\htdocs\htmltowordpress\wp-admin\admin.php(34): require_once('E:\\xamp\\htdocs\\...')
+#7 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 14
+
+2020-10-01T12:23:02+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:23:03+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:121
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 121
+
+2020-10-01T12:31:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:123
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 123
+
+2020-10-01T12:31:27+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:123
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 123
+
+2020-10-01T12:32:18+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:123
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 123
+
+2020-10-01T12:32:19+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:123
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 123
+
+2020-10-01T15:30:01+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T15:31:48+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T15:32:48+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T15:33:18+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T15:35:19+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T16:34:20+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 155
+
+2020-10-01T16:36:59+00:00 CRITICAL syntax error, unexpected '$search' (T_VARIABLE) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 149
+
+2020-10-01T16:37:17+00:00 CRITICAL syntax error, unexpected '$search' (T_VARIABLE) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 149
+
+2020-10-01T16:37:53+00:00 CRITICAL syntax error, unexpected '$search' (T_VARIABLE) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 149
+

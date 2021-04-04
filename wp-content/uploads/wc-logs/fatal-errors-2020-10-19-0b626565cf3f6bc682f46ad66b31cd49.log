@@ -1,0 +1,4 @@
+2020-10-19T09:50:27+00:00 CRITICAL require_once(): Failed opening required 'E:\xamp\htdocs\htmltowordpress/wp-content/themes/cinthia/inc/custom-comments.php' (include_path='E:\xamp\php\PEAR') in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 298
+
+2020-10-19T10:00:18+00:00 CRITICAL require_once(): Failed opening required 'E:\xamp\htdocs\htmltowordpress/wp-content/themes/cinthia/inc/theme-setup.php' (include_path='E:\xamp\php\PEAR') in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 295
+

@@ -1,0 +1,76 @@
+2020-10-02T12:18:22+00:00 CRITICAL syntax error, unexpected ''container'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\psd2wp\header.php on line 53
+
+2020-10-02T14:08:26+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\psd2wp\functions.php on line 278
+
+2020-10-02T16:20:34+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 170
+
+2020-10-02T16:21:15+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 170
+
+2020-10-02T16:39:45+00:00 CRITICAL Uncaught Error: Call to undefined function reset_post_data() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:93
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 93
+
+2020-10-02T16:40:42+00:00 CRITICAL Uncaught Error: Call to undefined function reset_postdata() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:93
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 93
+
+2020-10-02T18:53:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 698 and at least 1 expected in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(698): the_field()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#4 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 79
+
+2020-10-02T18:53:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 698 and at least 1 expected in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(698): the_field()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#4 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 79
+
+2020-10-02T18:53:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 698 and at least 1 expected in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(698): the_field()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#4 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 79
+
+2020-10-02T18:53:05+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function the_field(), 0 passed in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 698 and at least 1 expected in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php:79
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(698): the_field()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#4 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\plugins\advanced-custom-fields\includes\api\api-template.php on line 79
+
+2020-10-02T19:16:54+00:00 CRITICAL syntax error, unexpected ''footer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 23
+
+2020-10-02T19:17:02+00:00 CRITICAL syntax error, unexpected ''footer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 23
+
+2020-10-02T19:17:54+00:00 CRITICAL syntax error, unexpected ''footer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 23
+
+2020-10-02T19:18:50+00:00 CRITICAL syntax error, unexpected ''footer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 23
+
+2020-10-02T19:20:16+00:00 CRITICAL syntax error, unexpected ''footer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 23
+
+2020-10-02T19:41:03+00:00 CRITICAL syntax error, unexpected '=', expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 716
+
+2020-10-02T20:04:23+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 859
+
+2020-10-02T20:07:10+00:00 CRITICAL syntax error, unexpected ',', expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 195
+

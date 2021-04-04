@@ -1,0 +1,162 @@
+2020-10-03T07:44:10+00:00 CRITICAL Uncaught Error: Call to undefined function add_settings_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:309
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-settings.php(514): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(13): require_once('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#5 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 309
+
+2020-10-03T07:51:59+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 297
+
+2020-10-03T07:55:20+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 299
+
+2020-10-03T07:55:21+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 299
+
+2020-10-03T07:55:37+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 300
+
+2020-10-03T08:17:41+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 337
+
+2020-10-03T08:58:09+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 347
+
+2020-10-03T08:58:56+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 366
+
+2020-10-03T08:58:56+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 366
+
+2020-10-03T09:28:08+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php:122
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(730): require_once()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(676): load_template('E:\\xamp\\htdocs\\...', true, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(1): get_header()
+#4 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#6 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#7 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 122
+
+2020-10-03T09:34:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php:122
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(730): require_once()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(676): load_template('E:\\xamp\\htdocs\\...', true, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(1): get_header()
+#4 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#6 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#7 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 122
+
+2020-10-03T09:44:05+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\footer.php on line 116
+
+2020-10-03T09:46:24+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\footer.php on line 118
+
+2020-10-03T09:47:21+00:00 CRITICAL syntax error, unexpected '$i' (T_VARIABLE) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 382
+
+2020-10-03T09:48:49+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:391
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 391
+
+2020-10-03T09:51:53+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php:122
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(730): require_once()
+#1 E:\xamp\htdocs\htmltowordpress\wp-includes\template.php(676): load_template('E:\\xamp\\htdocs\\...', true, Array)
+#2 E:\xamp\htdocs\htmltowordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php(1): get_header()
+#4 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#6 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#7 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 122
+
+2020-10-03T10:04:49+00:00 CRITICAL syntax error, unexpected ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 120
+
+2020-10-03T10:14:45+00:00 CRITICAL syntax error, unexpected '<' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 127
+
+2020-10-03T10:15:19+00:00 CRITICAL syntax error, unexpected '<' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 142
+
+2020-10-03T10:50:58+00:00 CRITICAL Uncaught Error: Call to undefined function get_the_post_meta() in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php:420
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-includes\template-loader.php(106): include()
+#1 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(19): require_once('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#3 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\index.php on line 420
+
+2020-10-03T11:14:46+00:00 CRITICAL syntax error, unexpected ''</h6>'' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 133
+
+2020-10-03T11:32:27+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\header.php on line 93
+
+2020-10-03T11:38:47+00:00 CRITICAL syntax error, unexpected 'social' (T_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 88
+
+2020-10-03T11:38:54+00:00 CRITICAL syntax error, unexpected 'social' (T_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 88
+
+2020-10-03T12:01:21+00:00 CRITICAL syntax error, unexpected ''transport'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 416
+
+2020-10-03T12:01:23+00:00 CRITICAL syntax error, unexpected ''transport'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 416
+
+2020-10-03T12:01:23+00:00 CRITICAL syntax error, unexpected ''transport'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 416
+
+2020-10-03T12:09:14+00:00 CRITICAL Uncaught Error: Class 'Kirki' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php:488
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php(372): require()
+#1 E:\xamp\htdocs\htmltowordpress\wp-settings.php(514): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\htmltowordpress\wp-admin\admin-ajax.php(22): require_once('E:\\xamp\\htdocs\\...')
+#5 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 488
+
+2020-10-03T12:09:17+00:00 CRITICAL Uncaught Error: Class 'Kirki' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php:488
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php(372): require()
+#1 E:\xamp\htdocs\htmltowordpress\wp-settings.php(514): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(13): require_once('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 488
+
+2020-10-03T12:10:14+00:00 CRITICAL Uncaught Error: Class 'Kirki' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php:488
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php(372): require()
+#1 E:\xamp\htdocs\htmltowordpress\wp-settings.php(514): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\htmltowordpress\wp-admin\admin-ajax.php(22): require_once('E:\\xamp\\htdocs\\...')
+#5 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\customizer.php on line 488
+
+2020-10-03T12:11:31+00:00 CRITICAL Uncaught Error: Class 'Kirki' not found in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\kirki-config.php:2
+Stack trace:
+#0 E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php(373): require()
+#1 E:\xamp\htdocs\htmltowordpress\wp-settings.php(514): include('E:\\xamp\\htdocs\\...')
+#2 E:\xamp\htdocs\htmltowordpress\wp-config.php(90): require_once('E:\\xamp\\htdocs\\...')
+#3 E:\xamp\htdocs\htmltowordpress\wp-load.php(37): require_once('E:\\xamp\\htdocs\\...')
+#4 E:\xamp\htdocs\htmltowordpress\wp-blog-header.php(13): require_once('E:\\xamp\\htdocs\\...')
+#5 E:\xamp\htdocs\htmltowordpress\index.php(17): require('E:\\xamp\\htdocs\\...')
+#6 {main}
+  thrown in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\inc\kirki-config.php on line 2
+
+2020-10-03T12:42:52+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 392
+
+2020-10-03T12:42:53+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 392
+
+2020-10-03T13:40:02+00:00 CRITICAL syntax error, unexpected end of file in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 534
+
+2020-10-03T13:40:33+00:00 CRITICAL Cannot redeclare my_show_extra_profile_fields() (previously declared in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:367) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 429
+
+2020-10-03T13:40:49+00:00 CRITICAL Cannot redeclare my_show_extra_profile_fields() (previously declared in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:367) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 429
+
+2020-10-03T13:41:05+00:00 CRITICAL Cannot redeclare my_show_extra_profile_fields() (previously declared in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:367) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 429
+
+2020-10-03T13:44:43+00:00 CRITICAL Cannot redeclare slider_custom_meta() (previously declared in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:234) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 367
+
+2020-10-03T13:44:46+00:00 CRITICAL Cannot redeclare slider_custom_meta() (previously declared in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php:234) in E:\xamp\htdocs\htmltowordpress\wp-content\themes\cinthia\functions.php on line 367
+
